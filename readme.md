@@ -4,4 +4,5 @@
     consult("example.pl").
 
 
-    consult("listas-4.pl").
+    consult("ej09.pl").
+    consult("test.pl").
